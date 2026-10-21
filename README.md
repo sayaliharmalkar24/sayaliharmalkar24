@@ -1,16 +1,15 @@
-## Hi there 👋
-
+## Hi Sayali Here 👋
+📊 Aspiring Data Analyst | Data Enthusiast | Business & Sales Professional 
 <!--
-**sayaliharmalkar24/sayaliharmalkar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Bachelor of Arts (BA) graduate who is passionate about learning new skills, exploring data, and discovering meaningful insights.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👩‍💻 About Me
+- 🎓 I have graduated with a Bachelor of Arts (BA) degree.
+- 📊 I'm interested in Data Analytics and data-driven decision-making.
+- 🌱 I'm continuously learning new tools and technologies.
+- 🔍 I enjoy solving problems and exploring new ideas.
+- 🤝 I love connecting with people and helping others.
+- 📫 How to reach me: https://www.linkedin.com/in/sayali-h and https://github.com/sayaliharmalkar24
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: ⚡ I enjoy connecting with people, learning new things, and helping others whenever I can.
 -->
