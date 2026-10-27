@@ -1,4 +1,4 @@
-## Hi Sayali Here 👋
+## Hi i am Sayali Here 👋
 📊 Aspiring Data Analyst | Data Enthusiast | Business & Sales Professional 
 <!--
 Welcome to my GitHub profile! I'm a Bachelor of Arts (BA) graduate who is passionate about learning new skills, exploring data, and discovering meaningful insights.
