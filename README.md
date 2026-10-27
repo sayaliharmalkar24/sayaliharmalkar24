@@ -12,4 +12,3 @@ Welcome to my GitHub profile! I'm a Bachelor of Arts (BA) graduate who is passio
 - 📫 How to reach me: https://www.linkedin.com/in/sayali-h and https://github.com/sayaliharmalkar24
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ⚡ I enjoy connecting with people, learning new things, and helping others whenever I can.
--->
